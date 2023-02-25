@@ -11,5 +11,4 @@
     <Steps to restore = "1. Open the site capital.com", 2. Find the Markets Heatmap banner">
     <Expected result= "Titles are displayed on all banner buttons">
     <Actual Result= "Some buttons are untitled">
-
 </Bag report>
